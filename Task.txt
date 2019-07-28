@@ -1,0 +1,4 @@
+1. Improve detect cmnd :
+- Generate more image with random rotation
+
+2. Improve detect line 
